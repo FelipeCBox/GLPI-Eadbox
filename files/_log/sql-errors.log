@@ -1,0 +1,26 @@
+2018-08-20 12:48:09 [2@PC]
+  *** MySQL query error:
+  SQL: ALTER TABLE `glpi_plugin_formcreator_answers` ADD INDEX `plugin_formcreator_question_id` (`plugin_formcreator_question_id`) 
+  Error: Key column 'plugin_formcreator_question_id' doesn't exist in table
+  Backtrace :
+  inc/dbmysql.class.php:216                          
+  inc/migration.class.php:640                        DBmysql->queryOrDie()
+  plugins/formcreator/install/update_0.0_2.5.php:66  Migration->migrationOneTable()
+  plugins/formcreator/install/update_0.0_2.5.php:13  plugin_formcreator_updateAnswer_2_5()
+  plugins/formcreator/install/install.php:42         plugin_formcreator_update_2_5()
+  plugins/formcreator/hook.php:17                    PluginFormcreatorInstall->upgrade()
+  inc/plugin.class.php:731                           plugin_formcreator_install()
+  front/plugin.form.php:48                           Plugin->install()
+2018-08-20 12:48:29 [2@PC]
+  *** MySQL query error:
+  SQL: ALTER TABLE `glpi_plugin_formcreator_answers` ADD INDEX `plugin_formcreator_question_id` (`plugin_formcreator_question_id`) 
+  Error: Key column 'plugin_formcreator_question_id' doesn't exist in table
+  Backtrace :
+  inc/dbmysql.class.php:216                          
+  inc/migration.class.php:640                        DBmysql->queryOrDie()
+  plugins/formcreator/install/update_0.0_2.5.php:66  Migration->migrationOneTable()
+  plugins/formcreator/install/update_0.0_2.5.php:13  plugin_formcreator_updateAnswer_2_5()
+  plugins/formcreator/install/install.php:42         plugin_formcreator_update_2_5()
+  plugins/formcreator/hook.php:17                    PluginFormcreatorInstall->upgrade()
+  inc/plugin.class.php:731                           plugin_formcreator_install()
+  front/plugin.form.php:48                           Plugin->install()

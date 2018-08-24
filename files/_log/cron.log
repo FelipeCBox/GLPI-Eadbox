@@ -1,0 +1,294 @@
+2018-08-20 12:44:39 [@PC]
+Interno #1: Executar createinquest
+2018-08-20 12:49:45 [2@PC]
+Interno #1: Executar watcher
+2018-08-20 13:06:48 [2@PC]
+Interno #1: Executar ticketrecurrent
+2018-08-20 13:44:55 [2@PC]
+Interno #1: Executar planningrecall
+2018-08-20 13:50:49 [2@PC]
+Interno #1: Executar queuednotification
+2018-08-20 14:03:05 [2@PC]
+Interno #1: Executar queuednotificationclean
+2018-08-20 14:08:07 [2@PC]
+Interno #1: Executar temp
+2018-08-20 14:13:12 [2@PC]
+Interno #1: Executar mailgateerror
+2018-08-20 14:15:09 [@PC]
+Interno #1: Executar telemetry
+2018-08-20 14:16:04 [@PC]
+Interno #1: Executar contract
+2018-08-20 14:16:11 [@PC]
+Interno #1: Executar infocom
+2018-08-20 14:16:21 [@PC]
+Interno #1: Executar mailgate
+2018-08-20 14:18:26 [@PC]
+Interno #1: Executar session
+2018-08-20 14:19:07 [@PC]
+Interno #1: Executar graph
+2018-08-20 14:21:00 [@PC]
+Interno #1: Executar reservation
+2018-08-20 14:21:25 [@PC]
+Interno #1: Executar closeticket
+2018-08-20 14:21:33 [@PC]
+Interno #1: Executar alertnotclosed
+2018-08-20 14:22:05 [@PC]
+Interno #1: Executar slaticket
+2018-08-20 14:22:23 [@PC]
+Interno #1: Executar olaticket
+2018-08-20 14:24:23 [@PC]
+Interno #1: Executar planningrecall
+2018-08-20 14:24:46 [@PC]
+Interno #1: Executar queuednotification
+2018-08-20 14:29:54 [2@PC]
+Interno #1: Executar ticketrecurrent
+2018-08-20 14:32:23 [@PC]
+Interno #1: Executar queuednotification
+2018-08-20 14:33:09 [@PC]
+Interno #1: Executar mailgate
+2018-08-20 14:36:11 [@PC]
+Interno #1: Executar slaticket
+2018-08-20 14:50:58 [2@PC]
+Interno #1: Executar olaticket
+2018-08-20 14:52:11 [@PC]
+Interno #1: Executar planningrecall
+2018-08-20 14:53:40 [@PC]
+Interno #1: Executar queuednotification
+2018-08-20 14:55:56 [@PC]
+Interno #1: Executar slaticket
+2018-08-20 14:56:00 [@PC]
+Interno #1: Executar mailgate
+2018-08-20 14:56:01 [@PC]
+Interno #1: Executar queuednotification
+2018-08-20 14:56:02 [@PC]
+Interno #1: Executar olaticket
+2018-08-20 14:56:46 [@PC]
+Interno #1: Nada a ser executado
+2018-08-20 14:57:10 [@PC]
+Interno #1: Executar planningrecall
+2018-08-20 14:58:01 [@PC]
+Interno #1: Executar queuednotification
+2018-08-20 14:58:39 [@PC]
+Interno #1: Nada a ser executado
+2018-08-20 14:58:49 [@PC]
+Interno #1: Nada a ser executado
+2018-08-20 14:59:46 [@PC]
+Interno #1: Executar queuednotification
+2018-08-20 15:05:33 [2@PC]
+Interno #1: Executar slaticket
+2018-08-20 15:19:10 [2@PC]
+Interno #1: Executar queuednotification
+2018-08-20 15:26:39 [@PC]
+Interno #1: Executar olaticket
+2018-08-20 15:32:51 [2@PC]
+Interno #1: Executar planningrecall
+2018-08-20 15:51:57 [2@PC]
+Interno #1: Executar mailgate
+2018-08-20 15:57:42 [2@PC]
+Interno #1: Executar temp
+2018-08-20 16:02:58 [2@PC]
+Interno #1: Executar slaticket
+2018-08-20 16:04:03 [@PC]
+Interno #1: Executar graph
+2018-08-20 16:04:42 [@PC]
+Interno #1: Executar queuednotification
+2018-08-20 16:06:42 [@PC]
+Interno #1: Executar reservation
+2018-08-20 16:07:01 [@PC]
+Interno #1: Executar ticketrecurrent
+2018-08-20 16:12:10 [2@PC]
+Interno #1: Executar olaticket
+2018-08-20 16:17:46 [2@PC]
+Interno #1: Executar planningrecall
+2018-08-20 16:23:56 [2@PC]
+Interno #1: Executar mailgate
+2018-08-20 17:06:39 [2@PC]
+Interno #1: Executar queuednotification
+2018-08-20 17:06:44 [@PC]
+Interno #1: Executar slaticket
+2018-08-20 17:08:23 [@PC]
+Interno #1: Executar olaticket
+2018-08-20 17:09:00 [@PC]
+Interno #1: Executar planningrecall
+2018-08-20 17:09:42 [@PC]
+Interno #1: Executar mailgate
+2018-08-20 17:15:56 [2@PC]
+Interno #1: Executar temp
+2018-08-20 17:18:37 [@PC]
+Interno #1: Executar graph
+2018-08-20 17:27:54 [@PC]
+Interno #1: Executar reservation
+2018-08-20 17:33:55 [2@PC]
+Interno #1: Executar ticketrecurrent
+2018-08-20 17:36:18 [@PC]
+Interno #1: Executar queuednotification
+2018-08-20 17:39:55 [@PC]
+Interno #1: Executar slaticket
+2018-08-20 17:59:23 [2@PC]
+Interno #1: Executar olaticket
+2018-08-20 17:59:32 [@PC]
+Interno #1: Executar planningrecall
+2018-08-20 17:59:45 [@PC]
+Interno #1: Executar mailgate
+2018-08-20 18:59:27 [6@PC]
+Interno #1: Executar queuednotification
+2018-08-20 18:59:35 [@PC]
+Interno #1: Executar slaticket
+2018-08-20 19:00:40 [@PC]
+Interno #1: Executar planningrecall
+2018-08-20 19:03:59 [@PC]
+Interno #1: Executar olaticket
+2018-08-20 19:04:32 [@PC]
+Interno #1: Executar mailgate
+2018-08-20 19:07:00 [@PC]
+Interno #1: Executar temp
+2018-08-20 19:07:43 [@PC]
+Interno #1: Executar graph
+2018-08-20 19:44:32 [2@PC]
+Interno #1: Executar reservation
+2018-08-20 19:44:34 [@PC]
+Interno #1: Executar ticketrecurrent
+2018-08-21 08:45:41 [6@PC]
+Interno #1: Executar queuednotification
+2018-08-21 08:47:05 [@PC]
+Interno #1: Executar slaticket
+2018-08-21 08:57:34 [2@PC]
+Interno #1: Executar planningrecall
+2018-08-21 08:57:38 [@PC]
+Interno #1: Executar olaticket
+2018-08-21 09:04:23 [6@PC]
+Interno #1: Executar mailgate
+2018-08-21 09:59:07 [6@PC]
+Interno #1: Executar graph
+2018-08-21 10:15:53 [6@PC]
+Interno #1: Executar temp
+2018-08-21 10:15:57 [@PC]
+Interno #1: Executar reservation
+2018-08-21 11:02:31 [2@PC]
+Interno #1: Executar ticketrecurrent
+2018-08-21 11:02:37 [@PC]
+Interno #1: Executar closeticket
+2018-08-21 11:05:37 [@PC]
+Interno #1: Executar alertnotclosed
+2018-08-21 11:14:33 [2@PC]
+Interno #1: Executar queuednotification
+2018-08-21 11:14:52 [@PC]
+Interno #1: Executar slaticket
+2018-08-21 11:14:59 [@PC]
+Interno #1: Executar planningrecall
+2018-08-21 11:26:02 [6@PC]
+Interno #1: Executar olaticket
+2018-08-21 11:38:33 [6@PC]
+Interno #1: Executar mailgate
+2018-08-21 12:06:56 [@PC]
+Interno #1: Executar graph
+2018-08-21 12:10:55 [@PC]
+Interno #1: Executar reservation
+2018-08-21 12:11:48 [@PC]
+Interno #1: Executar queuednotification
+2018-08-21 12:16:57 [10@PC]
+Interno #1: Executar temp
+2018-08-21 12:17:32 [@PC]
+Interno #1: Executar slaticket
+2018-08-21 12:18:30 [@PC]
+Interno #1: Executar planningrecall
+2018-08-21 12:19:19 [@PC]
+Interno #1: Executar olaticket
+2018-08-21 12:20:54 [@PC]
+Interno #1: Executar mailgate
+2018-08-21 12:22:06 [@PC]
+Interno #1: Executar ticketrecurrent
+2018-08-21 12:26:47 [2@PC]
+Interno #1: Executar queuednotification
+2018-08-21 12:27:50 [10@PC]
+Interno #1: Executar slaticket
+2018-08-21 13:18:04 [10@PC]
+Interno #1: Executar planningrecall
+2018-08-21 13:23:47 [@PC]
+Interno #1: Executar olaticket
+2018-08-21 13:25:24 [2@PC]
+Interno #1: Executar queuednotification
+2018-08-21 16:23:46 [2@PC]
+Interno #1: Executar mailgate
+2018-08-21 16:23:48 [@PC]
+Interno #1: Executar slaticket
+2018-08-21 16:33:41 [6@PC]
+Interno #1: Executar createinquest
+2018-08-21 16:40:25 [6@PC]
+Interno #1: Executar watcher
+2018-08-21 16:51:10 [@PC]
+Interno #1: Executar graph
+2018-08-21 16:54:40 [@PC]
+Interno #1: Executar reservation
+2018-08-21 17:00:45 [6@PC]
+Interno #1: Executar temp
+2018-08-21 17:07:55 [@PC]
+Interno #1: Executar ticketrecurrent
+2018-08-21 17:28:54 [2@PC]
+Interno #1: Executar planningrecall
+2018-08-21 17:28:55 [@PC]
+Interno #1: Executar queuednotification
+2018-08-22 18:20:36 [6@PC]
+Interno #1: Executar olaticket
+2018-08-22 18:20:46 [@PC]
+Interno #1: Executar queuednotificationclean
+2018-08-22 18:24:26 [@PC]
+Interno #1: Executar mailgateerror
+2018-08-22 18:47:10 [@PC]
+Interno #1: Executar contract
+2018-08-22 18:48:14 [@PC]
+Interno #1: Executar infocom
+2018-08-22 18:50:50 [@PC]
+Interno #1: Executar session
+2018-08-23 09:17:32 [@PC]
+Interno #1: Executar slaticket
+2018-08-23 09:22:38 [2@PC]
+Interno #1: Executar mailgate
+2018-08-23 09:46:20 [2@PC]
+Interno #1: Executar queuednotification
+2018-08-23 09:51:35 [2@PC]
+Interno #1: Executar planningrecall
+2018-08-23 09:59:15 [2@PC]
+Interno #1: Executar graph
+2018-08-23 12:25:53 [@PC]
+Interno #1: Executar reservation
+2018-08-23 12:31:11 [6@PC]
+Interno #1: Executar temp
+2018-08-23 12:36:12 [6@PC]
+Interno #1: Executar ticketrecurrent
+2018-08-23 12:41:19 [6@PC]
+Interno #1: Executar closeticket
+2018-08-24 12:04:33 [6@PC]
+Interno #1: Executar alertnotclosed
+2018-08-24 12:09:37 [6@PC]
+Interno #1: Executar createinquest
+2018-08-24 12:13:39 [@PC]
+Interno #1: Executar watcher
+2018-08-24 12:23:02 [2@PC]
+Interno #1: Executar olaticket
+2018-08-24 12:54:10 [2@PC]
+Interno #1: Executar slaticket
+2018-08-24 13:02:31 [2@PC]
+Interno #1: Executar mailgate
+2018-08-24 13:05:32 [@PC]
+Interno #1: Executar queuednotification
+2018-08-24 13:06:21 [@PC]
+Interno #1: Executar planningrecall
+2018-08-24 13:06:23 [@PC]
+Interno #1: Executar graph
+2018-08-24 13:06:24 [@PC]
+Interno #1: Executar reservation
+2018-08-24 13:07:52 [@PC]
+Interno #1: Executar temp
+2018-08-24 13:18:43 [2@PC]
+Interno #1: Executar ticketrecurrent
+2018-08-24 13:21:26 [@PC]
+Interno #1: Executar queuednotificationclean
+2018-08-24 13:21:31 [@PC]
+Interno #1: Executar mailgateerror
+2018-08-24 13:21:34 [@PC]
+Interno #1: Executar contract
+2018-08-24 13:23:16 [@PC]
+Interno #1: Executar infocom
+2018-08-24 13:33:29 [2@PC]
+Interno #1: Executar session
